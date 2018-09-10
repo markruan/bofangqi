@@ -27,5 +27,8 @@
 	},
 	"jest": {
 		"preset": "react-native"
-	}
+	}，"engines": {
+        "node": "8.x"
+    },
+	
 }
